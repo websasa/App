@@ -1,0 +1,26 @@
+[
+    {
+        "word":"carolina",
+        "letters":"8",
+        "consonants":"4",
+        "vowels":4
+    },
+    {
+        "word":"jolokia",
+        "letters":"7",
+        "consonants":"3",
+        "vowels":4
+    },
+    
+   
+    {
+        "word":"varijabla",
+        "letters":"9",
+        "consonants":"5",
+        "vowels":4
+        
+    }
+
+
+    
+    ]

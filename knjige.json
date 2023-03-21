@@ -1,0 +1,22 @@
+[
+{
+    "title":"vlak u snijegu",
+    "author":"mato lovrak",
+    "pages":"350",
+    "available":false
+},
+{
+    "title":"dune" ,
+    "author":"frank herbert",
+    "pages":"420",
+    "available": true
+},
+{
+    "title":"biblija",
+    "author":"N/A",
+    "pages":"600",
+    "available":false
+    
+}
+
+]

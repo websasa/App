@@ -1,24 +1,42 @@
 [
     {
         "word":"carolina",
-        "letters":"8",
-        "consonants":"4",
-        "vowels":4
+        "num_letters":"8",
+        "num_consonants":"4",
+        "num_vowels":"4"
     },
     {
         "word":"jolokia",
-        "letters":"7",
-        "consonants":"3",
-        "vowels":4
+        "num_letters":"7",
+        "num_consonants":"3",
+        "num_vowels":4
     },
     
    
     {
         "word":"varijabla",
-        "letters":"9",
-        "consonants":"5",
-        "vowels":4
+        "num_letters":"9",
+        "num_consonants":"5",
+        "num_vowels":4
         
+    },
+    {
+        "word":"fatali",
+        "num_letters":"6",
+        "num_consonants":"3",
+        "num_vowels":3
+        
+
+
+    },
+    {
+        "word":"jalapeno",
+        "num_letters":"8",
+        "num_consonants":"4",
+        "num_vowels":4
+
+
+
     }
 
 

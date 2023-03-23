@@ -6,7 +6,7 @@ function count_vowels($word) {
 }
 
 function count_consonants($word) {
-    return preg_match_all('/[bcčćdđfghjklmnpqrsštvwxyzž]/i', $word);
+    return preg_match_all('/[bcdfghjklmnpqrstvwxyz]/i', $word);
 }
 
 

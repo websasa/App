@@ -55,4 +55,3 @@ if (!$connf) {
 
 echo "Uspješno ste se spojili na bazu podataka.";
 
-mysqli_close($connf);

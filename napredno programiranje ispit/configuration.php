@@ -17,6 +17,5 @@ if (!$connf) {
 // Uspješno spajanje
 echo "Uspješno ste se spojili na bazu podataka.";
 
-// Zatvaranje veze s bazom podataka
-mysqli_close($connf);
+
 ?>
